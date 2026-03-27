@@ -1,2 +1,2 @@
 # PythonBrainfuck
-As the name.
+Write in boring days.So don't mind it's too ugly :)
